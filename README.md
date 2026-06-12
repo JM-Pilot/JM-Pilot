@@ -1,3 +1,3 @@
-<h2 align="center">JM-Pilot</h2>
-<h5>Maintainer of mOS32 </h5>
-<h5>and I like to code</h5>
+#  JM-Pilot
+- Maintainer of [mOS32](https://github.com/JM-Pilot/mOS32) and [msysx](https://github.com/JM-Pilot/msysx)
+- I use arch btw
