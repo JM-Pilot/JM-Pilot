@@ -1,6 +1,4 @@
 #  JM-Pilot
-- I used arch btw
-- I now use Fedora KDE btw
-- OSDEV guy btw
+- I use arch btw
 - Intermediate C and Operating Systems Developer
 - [Proton Email](jmpilot-dev@proton.me)
